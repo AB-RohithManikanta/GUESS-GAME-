@@ -1,0 +1,1 @@
+It's a GUESS GAME between 1 to 10 numbers .I used random library to take computer's guess and input function to take player's input and used while loop to run the program continuously after correct guess I used break statement to stop the while loop.I used if elif and else statements to give the conditions.
